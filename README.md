@@ -95,11 +95,11 @@ You can run the model in Google Colab or locally using the notebook provided.
 
 ## 📂 File Structure
 ```
-├── gan_mnist.ipynb        # Main training notebook
-├── README.md              # Project documentation
-├── 80.png                 # Result image at 80 epoch
-├── 90.png                 # Result image at 90 epoch
-└── 100.png                # Result image at 100 epoch
+├── TensorFlow_with_GPU.ipynb  # Main training notebook
+├── README.md                  # Project documentation
+├── 80.png                     # Result image at 80 epoch
+├── 90.png                     # Result image at 90 epoch
+└── 100.png                    # Result image at 100 epoch
 ```
 ## 🤝 Contributions
 Contributions, pull requests, and improvements are welcome! Feel free to fork the repository and submit changes.
@@ -112,7 +112,3 @@ This project is licensed under the MIT License.
 - Ian Goodfellow — Inventor of GANs
 - TensorFlow & Keras Documentation
 - The MNIST dataset by Yann LeCun
-
-
-
-
